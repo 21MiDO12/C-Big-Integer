@@ -1,0 +1,21 @@
+﻿  code.cpp
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(210,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(250,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(266,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(293,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(315,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(349,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(949,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(959,23): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1213,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1277,16): warning C4101: 'w': unreferenced local variable
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1301,22): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1402,15): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1404,30): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(1418,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MyProjects\C++\BigInteger\BigInteger\code.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(182): warning C4715: 'bigNumber::BigInt::isValidNum': not all control paths return a value
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(100): warning C4715: 'bigNumber::BigInt::getBase': not all control paths return a value
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(499): warning C4715: 'bigNumber::operator>=': not all control paths return a value
+D:\MyProjects\C++\BigInteger\BigInteger\BigInteger.h(597): warning C4715: 'bigNumber::operator<=': not all control paths return a value
+  BigInteger.vcxproj -> D:\MyProjects\C++\BigInteger\Debug\BigInteger.exe
